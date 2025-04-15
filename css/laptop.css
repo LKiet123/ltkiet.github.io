@@ -395,7 +395,6 @@
     .nav .avar .avatar-container {
         position: absolute;
         left: 44%;
-        bottom: -50px;
         transform: translateY(-40%);
   
         background: white;
