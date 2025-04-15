@@ -406,6 +406,8 @@
     }
     /* kích thước và tạo arvart hình tròn */
     .avatar {
+         top: 130px;
+        left: 370px;
         width: 150px;
         height: 160px;
         border-radius: 50%;
