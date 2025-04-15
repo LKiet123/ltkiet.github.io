@@ -396,9 +396,8 @@
         position: absolute;
         left: 44%;
         bottom: -50px;
-/*         transform: translateY(-40%); */
-        top: 410px;
-        left: 500px;
+        transform: translateY(-40%);
+  
         background: white;
         border-radius: 50%;
         padding: 5px;
