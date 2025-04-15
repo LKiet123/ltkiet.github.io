@@ -396,7 +396,9 @@
         position: absolute;
         left: 44%;
         bottom: -50px;
-        transform: translateY(-40%);
+/*         transform: translateY(-40%); */
+        top: 410px;
+        left: 500px;
         background: white;
         border-radius: 50%;
         padding: 5px;
@@ -450,12 +452,12 @@
     border: none;
     padding: 5px 10px;
     border-radius: 10px;
-    cursor: pointer;
+    cursor: pointer; /* Đổi con trỏ chuột thành bàn tay khi hover */
     margin-top: 50px;
-    transition: background-color 0.3s ease;
+    transition: background-color 0.3s ease;/* Hiệu ứng chuyển màu nền mượt trong 0.3 giây */
     display: none;
   }
-
+/*chuyen mau nen khi hover  */
 .toggle-btn:hover {
     background-color: #0056b3;
  }
